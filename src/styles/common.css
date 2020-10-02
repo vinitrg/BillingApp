@@ -1,0 +1,7 @@
+.searchStyle{
+    width: 95vw;
+    height: 50px;
+    /*this is short hand*/
+    border: orangered 1px solid;
+    margin: 10px;
+}
